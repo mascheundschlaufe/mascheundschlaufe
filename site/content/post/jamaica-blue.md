@@ -1,7 +1,8 @@
 ---
-title: "Just in: small batch of Jamaican Blue Mountain in store next week"
+title: Weihnachtsmarkt in Füssen
 date: 2017-01-04T15:04:10.000Z
-description: We’re proud to announce that we’ll be offering a small batch of
-  Jamaica Blue Mountain coffee beans in our store next week.
+description: Wir freuen uns, Euch alle auf unserem Stand in Füssen auf dem
+  Weihnachtsmarkt zu treffen! Ab Donnerstag gehts los!
+image: img/pexels-vladislav-murashko-6117267.jpg
 ---
 haha
