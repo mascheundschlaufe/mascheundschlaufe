@@ -1,13 +1,14 @@
 ---
-title: Schlaufe und so
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: Masche & Schlaufe
+subtitle: What a mesh!
+image: img/titelbild-masche-und-schlaufe.png
 blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: Weihnachtliche und hyggelige Häkelkreationen
+  text: "Jedes Luftmaschen-Kunstwerk sorgt für Aufsehen und ist ein Unikat. Der
+    Handarbeitscharakter mit dem charmanten Style ist eine Bereicherung für die
+    festliche Weihnachtsdeko. Das traditionelle ursprüngliche Handwerk des
+    Häkelns bietet sehr viele Möglichkeiten detailgetreue Artikel zu
+    entwerfen.  "
 intro:
   heading: What we offer
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
