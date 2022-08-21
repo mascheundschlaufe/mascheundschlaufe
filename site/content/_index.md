@@ -10,8 +10,7 @@ blurb:
     Häkelns bietet sehr viele Möglichkeiten detailgetreue Artikel zu
     entwerfen.  "
 intro:
-  heading: Wer mit festlichen Häkelwerken weihnachtliche Stimmung zaubern möchte,
-    ist bei Masche und Schlaufe bestens bedient
+  heading: Festliche Häkelwerke & weihnachtliche Stimmung
   text: "Das Label Masche und Schlaufe, das von drei Schwestern und deren
     Schwägerin gegründet worden ist, entsteht. Die Kunden sind begeistert und
     die Häkel-Schwestern werden mit Anfragen überhäuft. Natürlich wird jedes
