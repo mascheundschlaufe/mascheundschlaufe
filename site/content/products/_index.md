@@ -48,6 +48,18 @@ intro:
       text: Kerzen
     - image: img/20220823_171208.jpg
       text: Mütze Rentier
+    - image: img/20220823_171259.jpg
+      text: Mütze Rentier
+    - image: img/20220823_171351.jpg
+      text: rosa Socke
+    - image: img/20220823_171421.jpg
+      text: Glocken
+    - image: img/20220823_171454.jpg
+      text: bunte Socken
+    - image: img/20220823_171717.jpg
+      text: rot-weiße Socken
+    - image: img/20220823_171803.jpg
+      text: Untersetzer
   heading: Unsere Produkte
   description: "Jedes Luftmaschen-Kunstwerk sorgt für Aufsehen und ist ein Unikat.
     Der Handarbeitscharakter mit dem charmanten Style ist eine Bereicherung für
