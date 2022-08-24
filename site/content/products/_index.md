@@ -67,12 +67,10 @@ intro:
     Häkelns bietet sehr viele Möglichkeiten detailgetreue Artikel zu
     entwerfen.  "
 main:
-  heading: Great coffee with no compromises
+  heading: Deko für woh(ll)ige Weihnachten
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Verkauft werden die Produkte online oder auf Messen und natürlich
+    Weihnachtsmärkten.
   image1:
     alt: Wolle
     image: img/pexels-steve-johnson-845263.jpg
