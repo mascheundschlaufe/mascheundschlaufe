@@ -1,7 +1,7 @@
 ---
 title: Masche & Schlaufe
 subtitle: What a mesh!
-image: img/titelbild-masche-und-schlaufe.png
+image: img/pexels-anete-lusina-4792088.jpg
 blurb:
   heading: Weihnachtliche und hyggelige Häkelkreationen
   text: >-
