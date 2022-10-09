@@ -2,9 +2,7 @@
 title: 'Impressum'
 date: 2018-11-14T19:02:50-07:00
 draft: false
-blurb:
-  heading: Impressum
-  text: >-
+---
         Angaben gemäß § 5 TMG<br>
         <br>
         Masche und Schlaufe<br>
@@ -33,4 +31,3 @@ blurb:
         Unsere E-Mail-Adresse finden Sie oben im Impressum.<br>
         <br>
         Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.<br>
----
