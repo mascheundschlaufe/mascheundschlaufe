@@ -2,8 +2,9 @@
 title: 'Impressum'
 date: 2018-11-14T19:02:50-07:00
 draft: false
----
-<h1>Impressum</h1>
+blurb:
+  heading: Impressum
+  text: >-
 <br>
 Angaben gemäß § 5 TMG<br>
 <br>
@@ -33,3 +34,4 @@ Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS
 Unsere E-Mail-Adresse finden Sie oben im Impressum.<br>
 <br>
 Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.<br>
+---
