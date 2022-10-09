@@ -5,7 +5,6 @@ draft: false
 blurb:
   heading: Impressum
   text: >-
-<br>
 Angaben gemäß § 5 TMG<br>
 <br>
 Masche und Schlaufe<br>
