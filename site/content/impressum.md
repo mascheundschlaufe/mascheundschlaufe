@@ -1,6 +1,6 @@
 ---
 title: 'Impressum'
-date: 2022-10-09T10:52:50
+date: 2018-11-14T19:02:50-07:00
 draft: false
 ---
 <h1>Impressum</h1>
