@@ -5,12 +5,12 @@ draft: false
 blurb:
   heading: Impressum
   text: >-
-Angaben gemäß § 5 TMG<br>
-<br>
-Masche und Schlaufe<br>
-Grosostraße 1<br>
-82166 Gräfelfing<br>
-<br>
+        Angaben gemäß § 5 TMG<br>
+        <br>
+        Masche und Schlaufe<br>
+        Grosostraße 1<br>
+        82166 Gräfelfing<br>
+        <br>
 Vertreten durch:<br>
 Claudia Hack<br>
 <br>
